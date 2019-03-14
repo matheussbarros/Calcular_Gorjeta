@@ -20,8 +20,7 @@
         android:maxLength="6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="number"
-        android:text="Name"/>
+        android:inputType="number"/>
 
     <TextView
         android:id="@+id/amountTextView"
